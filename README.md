@@ -14,7 +14,7 @@
 - 📫 How to reach me **shoaibayub@172gmail.com**
  <img class="gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated Coding GIF">
  <p>CHECK MY GITHUB REPO'S</p>
-<a href="https://github.com/AbdulGhani9?tab=repositories">My Github Repo's</a>
+<a href="https://github.com/Shoaib-Ayub?tab=repositories"><b> My Github Repo's</b> </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
