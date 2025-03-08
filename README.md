@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shoaib Ayub</h1>
 <h3 align="center">A passionate Flutter developer</h3>
-<h1> My Github Repos -->  </h1> <a href="https://github.com/Shoaib-Ayub?tab=repositories"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib-ayub&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib-ayub" /> </p>
 
@@ -14,6 +13,7 @@
 
 - 📫 How to reach me **shoaibayub@172gmail.com**
  <img class="gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated Coding GIF">
+ <p> My Github Repo's :-   <a href="https://github.com/Shoaib-Ayub?tab=repositories"></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
